@@ -8,3 +8,7 @@ function scuberGreetingForFeet(travelDistance) {
     return 'No can do.';
   }
 }
+
+ternaryCheckCity(destinationCity) {
+  destinationCity === 'NYC' ? 'Ok, sounds good' : 'No go.'
+}
