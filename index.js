@@ -8,3 +8,5 @@ function scuberGreetingForFeet(travelDistance) {
     return 'No can do.';
   }
 }
+
+function ternaryCheckCity() {}
